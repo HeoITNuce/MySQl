@@ -1,0 +1,24 @@
+Nội dung ôn tập :
+
+- tập chung java Swing.
+
+	+ biết cách sử dụng các component cơ bản, bắt sự kiện.
+	+ JTable 
+	+ JDBC kết nối đến HQT CSDL ,  thực hiện thêm, sửa, xóa truy vẫn
+
+
+Lập trình nhúng:
+Nội dung chính:
+- phần 1: phần cơ bản .
+
+	+ xây dựng giao diện trên mobile
+	+ các thành phần cơ bản trên giao diện ứng dụng
+	+ cơ sở dữ liệu SQLite
+//Bài thi giữa kỳ 
+	+ sẽ báo trước 1 tuần
+
+- phần 2: phần nâng cao.
+	+ Networking
+* Công cụ lập trình:
+	+ cài đặt andrroid studio
+	+ cài đặt máy ảo Genny motion
